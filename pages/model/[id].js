@@ -5,7 +5,6 @@ import { useLanguage } from '../../context/LanguageContext';
 
 
 
-
 const modelData = [
   {
     id: 1,
