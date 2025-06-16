@@ -1,6 +1,8 @@
 // pages/model/[id].js
 import { useRouter } from 'next/router';
-import { useLanguage } from '../../Context/LanguageContext';
+import { useLanguage } from '../../context/LanguageContext';
+
+
 
 
 
